@@ -1,7 +1,7 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
-
+ 
 /* 🎨 Variables personalizadas para colores */
 :root {
   --background: 285 100% 95%;
